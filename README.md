@@ -1,2 +1,2 @@
 # rupsha-portfolio
-Personal portfolio website – Rupsha Das
+Personal portfolio of Rupsha Das | BCA Student | Software Development, Web Technologies & Cybersecurity Projects
