@@ -9,7 +9,7 @@ A collection of my development projects, technical skills, education and profess
 ## Portfolio Screenshots
 
 ### 1. Home
-![Portfolio Home](portfolio-home.png)
+![Portfolio Home](portfolio-preview.png)
 
 ### 2. About Me
 ![About Me](portfolio-about.png)
